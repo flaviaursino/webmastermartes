@@ -1,7 +1,4 @@
-pan
-galletitas
-chocolinas
-gelatina
+
 bananas
 manzanas
 palta
