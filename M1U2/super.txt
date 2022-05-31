@@ -2,3 +2,8 @@ pan
 galletitas
 chocolinas
 gelatina
+bananas
+manzanas
+palta
+lechuga
+tomates
